@@ -1,5 +1,6 @@
-## Hi there 👋
+# Gioele Gallo 👋
 
+I'm a mathematician with a PhD in Probability Theory, interested in Data Science, Machine-, Deep- and Reinforcement- Learning
 <!--
 **giolendius/giolendius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
